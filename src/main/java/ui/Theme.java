@@ -1,5 +1,5 @@
+package ui;
 
-package app.ui;
 
 import java.awt.*;
 
