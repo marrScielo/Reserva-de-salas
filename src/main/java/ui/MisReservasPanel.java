@@ -1,7 +1,7 @@
 // src/main/java/app/ui/MisReservasPanel.java
-package app.ui;
+package ui;
 
-import app.domain.Reserva;
+import domain.Reserva;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

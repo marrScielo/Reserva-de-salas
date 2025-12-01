@@ -1,10 +1,10 @@
 package app;
 
-import app.domain.*;
-import app.repo.*;
-import app.validation.*;
-import app.notification.*;
-import app.usecase.CrearReservaUseCase;
+import domain.*;
+import repo.*;
+import validation.*;
+import notification.*;
+import usecase.CrearReservaUseCase;
 
 import java.time.LocalDateTime;
 import java.util.Arrays;

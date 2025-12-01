@@ -1,7 +1,6 @@
+package ui;
 
-package app.ui;
-
-import app.domain.Reserva;
+import domain.Reserva;
 
 import javax.swing.*;
 import javax.swing.border.TitledBorder;
